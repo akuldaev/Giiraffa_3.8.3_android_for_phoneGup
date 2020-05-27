@@ -1,7 +1,7 @@
 {
     "app_id": "com.akuldaev.ffamobile",
-    "appname": "Giiraffa",
-    "desktopappname": "Giiraffa",
+    "appname": "Giiraffa Mobile",
+    "desktopappname": "Giiraffa Desktop",
     "versioncode": 3820,
     "versionname": "3.8.2",
     "cache_update_frequency_usually": 420000,
@@ -59,7 +59,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-	"demo_sites": {
+    "demo_sites": {
         "student": {
             "url": "https:\/\/school.moodledemo.net",
             "username": "student",
@@ -76,8 +76,8 @@
         75.89,
         93.75
     ],
-    "customurlscheme": "giiraffa",
-    "siteurl": "http://giiraffa.ru",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "https://giiraffa.ru",
     "sitename": "giiraffa.ru",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
